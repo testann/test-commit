@@ -3,8 +3,8 @@ public class Test {
     
     public Test(Integer myInt) {
         assert myInt != null : "myInt != null";
-
-        this.myInt = myInt + 1;
+    
+        this.myInt = myInt + 123;
         
         //test
     }
