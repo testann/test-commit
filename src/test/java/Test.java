@@ -5,7 +5,7 @@ public class Test {
           
           assert myInt != null : "myInt != null";
           
-          this.myInt = myInt + 12345;
+          this.myInt = myInt + 123456;
           
           
           //test new comm

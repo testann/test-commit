@@ -1,0 +1,13 @@
+[*]
+
+trim_trailing_whitespace = true
+
+[*.md]
+trim_trailing_whitespace = true
+indent_style = tab
+indent_size = tab
+in
+
+
+
+
