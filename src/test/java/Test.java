@@ -1,13 +1,13 @@
 public class Test {
-    private final Integer myInt;
-    
-    public Test(Integer myInt) {
-    
-        assert myInt != null : "myInt != null";
-    
-        this.myInt = myInt + 1234;
-    
-    
-        //test new comm
-    }
+     private final Integer myInt;
+     
+     public Test(Integer myInt) {
+          
+          assert myInt != null : "myInt != null";
+          
+          this.myInt = myInt + 12345;
+          
+          
+          //test new comm
+     }
 }
