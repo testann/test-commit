@@ -5,6 +5,7 @@ public class Test {
   
     assert myInt != null : "myInt != null";
   
+  
     this.myInt = myInt + 123;
   
   
