@@ -2,7 +2,7 @@ public class DoubleTest {
 
     int X;
     int Y;
-    int Z;
+    int Z7;
 
 
 }
