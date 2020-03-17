@@ -1,3 +1,6 @@
+package TR;
+
+
 import java.lang.Math;
 
 public class ClassForTesting {
