@@ -1,10 +1,9 @@
-package TR;
-import com.sun.*;
+import java.lang.Math;
 
 public class ClassForTesting {
 
     int X;
     int Y1;
-    int Z1;
+    int Z1 = Math.abs(X);
 
 }
